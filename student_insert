@@ -22,15 +22,15 @@
               echo "<br/>"."RECORD INSERTED SUCCESSFULLY";
               echo "<html>";
               echo "<body>";
-              echo "<table border=6 bordercolor=red bgcolor=gray>";
-              echo "<tr align=center style=color:white>";
+              echo "<table border=6 bordercolor=magenta>";
+              echo "<tr align=center style=color:blue>";
               echo "<th>"."ID"."</th>";
               echo "<th>"."NAME"."</th>";
               echo "<th>"."SEMESTER"."</th>";
               echo "<th>"."DEPARTMENT"."</th>";
               echo "<th>"."GENDER"."</th>";
               echo "</tr>";
-              echo "<tr align=center style=color:yellow>";
+              echo "<tr align=center style=color:green>";
               echo "<td>".$id1."</td>";
               echo "<td>".$name1."</td>";
               echo "<td>".$semester1."</td>";
