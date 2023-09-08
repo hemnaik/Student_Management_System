@@ -1,3 +1,4 @@
+//Genderwise retrieval of data records from database//
 <?php
    error_reporting(0);
    $gender1=$_POST['gender'];
