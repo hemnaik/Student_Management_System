@@ -9,9 +9,9 @@
    if($con)
    {
        echo "<br/><h2 style=color:blue;>"."DATABASE CONNECTED"."</h2>";
-       $delete="DELETE FROM student_info WHERE id=$id1 AND name LIKE '%$name1%'";
+       $delete="DELETE FROM st jiudent_info WHERE id=$id1 AND name LIKE '%$name1%'";
        $result=mysqli_query($con,$delete);
-       if($result)
+       if($result==true)
        {
           echo "<br/><h2 style=color:red;>"."RECORD DELETED"."</h2>";
        }
