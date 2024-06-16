@@ -4,12 +4,11 @@
 2) PHP SCRIPTING SKILLS
 3) MYSQL PROGRAMMING
 4) PHPMYADMIN 
-# Main Database Operationsare
+# Main Database Operations are 
    - 1)Insert 
-   -2)Delete
-     - 3)Select
-     - 4)Update
-
+   - 2)Delete
+   - 3)Select
+   - 4)Update
 # Insert 
 To insert new records and also multiple records simultaneously.
 
