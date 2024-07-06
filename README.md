@@ -4,29 +4,25 @@
 2) PHP SCRIPTING SKILLS
 3) MYSQL PROGRAMMING
 4) PHPMYADMIN 
-# Main Database Operations are 
-   - Insert 
-   - Delete
-   - Select
-   - Update
-# Insert 
+# Main Database Operations are:
+## Insert 
 To insert new records and also multiple records simultaneously.
 
 Syntax:  INSERT into TABLE_NAME(Column1,Column2,..Column3) VALUES(val1,val2,...valn);
 
-# Delete 
+## Delete 
 
 To delete the existing records.
 
 Synatx: DELETE from TABLE_NAME WHERE condition;
 
-# Select 
+## Select 
 
 In order to select the existing records 
 
 Synatx: SELECT * from TABLE_NAME;
 
-# Update
+## Update
 
 In order to update existing records or newly added records.
 
